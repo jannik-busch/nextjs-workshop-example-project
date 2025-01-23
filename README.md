@@ -1,4 +1,4 @@
-### **Disclaimer**
+### **Achtung**
 
 Dieses Projekt ist ausschließlich für die Teilnehmer meines Workshops vorgesehen. 
 Es dient zur Übung und zur Verbesserung der Fähigkeiten im Bereich der Fehleranalyse und -behebung in einem Next.js-Projekt.
